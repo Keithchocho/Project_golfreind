@@ -1,4 +1,4 @@
-# olfriend
+# Golfriend
 <img src="https://user-images.githubusercontent.com/71859468/113385433-1d098100-93c3-11eb-9c8b-04d2ae6d1c78.jpg" width="200" />
  골프렌드는 골프 스윙 동영상을 8개의 자세로 나누고 각 자세에서 개선점을 알려주는 애플리케이션입니다.  
  
